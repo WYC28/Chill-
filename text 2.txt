@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chill Guy Meme</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>The Chill Guy Meme</h1>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>What is the Chill Guy Meme?</h2>
+      <p>
+        The "Chill Guy" meme is a popular cartoon-style character that represents a relaxed, confident, and carefree attitude. 
+        It's often used in humorous contexts to depict someone who is effortlessly cool and unbothered.
+      </p>
+    </section>
+
+    <section id="image">
+      <h2>The Meme Visual</h2>
+      <img src="chill-guy.png" alt="Chill Guy Meme" />
+      <p>The iconic "Chill Guy" with stylish shoes, a hoodie, and sunglasses.</p>
+    </section>
+
+    <section id="popularity">
+      <h2>Why is it Viral?</h2>
+      <p>
+        The meme's humor and relatability have made it a hit on social media. Its simplicity, combined with the relaxed demeanor of the character,
+        resonates with a wide audience. Many customize the character's outfit or accessories to make it more personal or contextually relevant.
+      </p>
+    </section>
+
+    <footer>
+      <p>Created by Meme Enthusiasts | 2024</p>
+    </footer>
+  </main>
+</body>
+</html>
